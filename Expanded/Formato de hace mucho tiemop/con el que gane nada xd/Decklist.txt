@@ -1,0 +1,30 @@
+Pokemon - 18
+4 Rapid Strike Urshifu V BST 87
+3 Rapid Strike Urshifu VMAX BST 88
+3 Jirachi TEU 99
+2 Dedenne-GX UNB 57
+1 Crobat V SHF 44
+1 Galarian Zigzagoon SSH 117
+1 Giratina UNM 86
+1 Mew UNB 76
+1 Mimikyu CEC 97
+1 Jirachi-GX UNM 79
+
+Trainer - 33
+4 Professor's Research SHF 60
+4 Marnie CPA 56
+3 Boss's Orders SHF 58
+4 Quick Ball SSH 179
+4 Switch SSH 183
+4 Scoop Up Net RCL 165
+3 Pokémon Communication TEU 152
+1 Reset Stamp UNM 206
+1 Great Catcher CEC 192
+1 Escape Rope BST 125
+1 Air Balloon SSH 156
+1 Karate Belt UNM 201
+2 Martial Arts Dojo UNB 179
+
+Energy - 9
+5 Fighting Energy 6
+4 Rapid Strike Energy BST 140

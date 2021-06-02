@@ -1,3 +1,5 @@
-# Decks de estándar
+# Decks de estándar formato de Sol y Luna en adelante
 
-Aquí podrás encontrar decks to guapos
+## Expansiones disponibles en la época de este deck
+
+123455
